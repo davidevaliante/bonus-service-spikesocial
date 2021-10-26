@@ -189,6 +189,11 @@ const BonusStripe: FunctionComponent<Props> = ({
         );
         break;
 
+      case "William Hill":
+        window.open(
+          "https://spikeslot.com/guida/recensione-william-hill-bonus/it"
+        );
+
       default:
         window.open(
           "https://www.spikeslot.com/guida/bonus-benvenuto-starcasino/it"
